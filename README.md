@@ -8,7 +8,7 @@ It provides insights into **sales performance, revenue trends, top brands, best-
 
 ## 📁 File Included
 - `Mobile Sales Data Analysis.pbix` – Power BI dashboard file
-- `Mobile Sales Data ss` - Dashboard Image
+- `Mobile Sales Data ss.png` - Dashboard Image
 
 ---
 
